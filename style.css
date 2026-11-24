@@ -1,0 +1,9 @@
+body { 
+    background-color: black;
+    font-family: Inter;
+    color: white;
+}
+.logo { 
+    /* calma caralho fds sempre a dar erro */
+    border-radius: 50%;
+}
